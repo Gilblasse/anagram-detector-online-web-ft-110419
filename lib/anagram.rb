@@ -6,4 +6,5 @@ class Anagram
     @word = string
   end
   
+  
 end
